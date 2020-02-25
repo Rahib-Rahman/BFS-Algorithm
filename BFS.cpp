@@ -1,6 +1,10 @@
 #include<bits/stdc++.h>
 #define mxn 10000
 
+/*
+ * @author Sheikh Md. Rahibur Rahman
+ */
+
 using namespace std;
 
 vector< int > graph[mxn];
